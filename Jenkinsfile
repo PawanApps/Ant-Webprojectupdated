@@ -1,7 +1,7 @@
 #! groovy
 node{
  stage('Source'){
-     git 'https://github.com/devopstrainingblr/Ant-WebProject.git'
+     git 'https://github.com/PawanApps/Ant-Webprojectupdated.git'
  }
  
  stage('Build'){
